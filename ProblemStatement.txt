@@ -1,0 +1,5 @@
+Assignment-2 july16 on CSS-HTML
+
+Selfstudy topics CSS/HTML:
+1) Radial Gradient.
+2) Animations Key Frame Animation Transition.
